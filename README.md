@@ -2,11 +2,11 @@
         <img src="file.png"  height="200">
     </div>
 
-<h1 align="center">Welcome To Code With CusalDmsr</h1>
+<h1 align="center">Welcome To CusalDev</h1>
 
-<h3 align="center">This is an organization created by me for people who are interested in coding and here I hope to share knowledge on topics such as mobile application development, web application development, standalone software development.</h3>
+<h3 align="center">This is an organization I created for people who are interested in coding. I hope to share knowledge on topics such as mobile application development, web application development, and standalone software development.</h3>
 
-<h3 align="center">I'm CusalDmsr , I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
+<h3 align="center">I'm <a href="https://www.github.com/Cusaldmsr">CusalDmsr</a>, I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
 I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
